@@ -20,6 +20,10 @@
 * DynamoDB → Data storage
 * Terraform → Infrastructure deployment
 
+"The Problem Solved."
+"Implemented a zero-trust serverless architecture to ensure only authenticated users via Cognito,
+ could trigger the business logic in Lambda, preventing unauthorized API calls and managing cost through serverless scaling."
+
 ---
 
 ## 🔐 Security
